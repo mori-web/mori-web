@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning **Java , SpringBoot , PHP , Laravel**
 
 <h3 align="left">Connect with me:</h3>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mori-web
+)](https://github.com/mori-web/README.md)
 <p align="left">
 </p>
 
