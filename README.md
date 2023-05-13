@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Java , SpringBoot , PHP , Laravel**
 
 <h3 align="left">Connect with me:</h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mori-web
 )](https://github.com/anuraghazra/github-readme-stats)
 <p align="left">
 </p>
