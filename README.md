@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=mori-web
-)](https://github.com/mori-web/README.md)
+)](https://[github.com/github.com/mori-web/mori-web.git])
 <p align="left">
 </p>
 
