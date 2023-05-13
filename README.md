@@ -1,7 +1,7 @@
 <!-- Github　の　Profile README　ジェネレーターサイト　→　「https://rahuldkjain.github.io/gh-profile-readme-generator/」 -->
 
 <h1 align="center">Hi 👋, I'm mori</h1>
-<h3 align="center">A passionate frontend developer from Japan</h3>
+<h3 align="center">A passionate Backend developer from Japan</h3>
 
 - 🌱 I’m currently learning **Java , SpringBoot , PHP , Laravel**
 
